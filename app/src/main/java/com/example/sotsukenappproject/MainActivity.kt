@@ -14,3 +14,4 @@ class MainActivity : AppCompatActivity() {
         setContentView(view)
     }
 }
+//自己防衛だよね
